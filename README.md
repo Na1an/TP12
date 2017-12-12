@@ -1,0 +1,1 @@
+# ScreenCaptureTool/CaptureD'écranOutil
